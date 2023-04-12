@@ -1,2 +1,5 @@
 # Excluyendo node_modules
 node_modules/
+
+# Archivos .json de la base de datos
+/db/*.json
